@@ -11,9 +11,9 @@ Material para el curso de Data Science CERO UNO
 
 ## Semana 5 Machine Learning
 
-## Semana 6 Deep Learning
+## Semana 6 Visualización de Datos (storytelling)
 
-## Semana 7 Visualización de datos (Storytelling)
+## Semana 7 Deep Learning
 
 ## Semana 8 Proyecto Final
 
